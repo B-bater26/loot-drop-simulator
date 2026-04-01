@@ -28,7 +28,9 @@ Enter number of simulations -> 100000
 Enter luck boost % [enter 0 if no luck boost] -> (eg. 5 for 5%)
 
 Once you are satisfied with your data:
+```
 Would you like run a new simulation? [yes/no] -> no
+```
 
 ## Example Output
 ```
